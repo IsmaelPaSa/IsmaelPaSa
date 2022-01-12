@@ -1,8 +1,10 @@
+ケツァル
+
+<!---
 - 👋 Hola, soy @IsmaelPaSa
 - 👀 Estoy interesado en sistemas de control y automatizacion
 - 🌱 Actualmente estoy estudiando desarrollo de software multiplataforma
 
-<!---
 - 💞️ Me gustaria colaborar en nada, de momento...
 - 📫 Si deseas contactarme @Ismael_PaSa en twitter!
 
